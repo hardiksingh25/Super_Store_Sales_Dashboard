@@ -1,4 +1,4 @@
-# SuperStore Sales Analysis and Forecasting
+# Super Store Sales Analysis and Forecasting
 
 ## Objective
 The primary goal of this project was to contribute to the success of a business by employing data analysis techniques. The project focused on **time series analysis** to provide actionable insights and accurate sales forecasting.
